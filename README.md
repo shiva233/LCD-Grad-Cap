@@ -35,7 +35,7 @@ Displays a typewriter-style boot-up sequence and scrolls nerdy/sentimental messa
 
 **Power:**
 - Arduino Uno powered by USB for testing  
-- 9V battery via barrel jack fon the final build
+- 9V battery via barrel jack for the final build
 
 ---
 
@@ -54,7 +54,7 @@ Displays a typewriter-style boot-up sequence and scrolls nerdy/sentimental messa
 ## How to Build (Short Version)
 1. Wire up the LCD + potentiometer (see chart above)  
 2. Upload `GradCap.ino` using Arduino IDE  
-3. Power with USB or 9V battery (If using a 9V battery you must convert it to 5V, I did this via a breadboard powersupply) 
+3. Power with USB or 9V battery (If using a 9V battery, you must convert it to 5V, I did this via a breadboard power supply) 
 4. Mount with Velcro or tape to the grad cap  
 5. Smile nervously while everyone reads your screen
 6. Don't forget to take everything off before throwing your grad cap in the air!
