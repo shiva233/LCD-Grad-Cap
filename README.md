@@ -6,7 +6,7 @@ Displays a typewriter-style boot-up sequence and scrolls nerdy/sentimental messa
 
 ---
 
-## 🔌 Wiring Overview
+## Wiring Overview
 
 **LCD1602 (parallel mode):**
 
@@ -36,7 +36,7 @@ Displays a typewriter-style boot-up sequence and scrolls nerdy/sentimental messa
 
 ---
 
-## 🛠 Components Used
+## Components Used
 - Arduino Uno R3  
 - LCD1602 display (with header pins)  
 - Breadboard + jumper wires  
@@ -48,7 +48,7 @@ Displays a typewriter-style boot-up sequence and scrolls nerdy/sentimental messa
 
 ---
 
-## 🔧 How to Build (Short Version)
+## How to Build (Short Version)
 1. Wire up the LCD + potentiometer (see chart above)  
 2. Upload `GradCap.ino` using Arduino IDE  
 3. Power with USB or 9V battery (If using a 9V battery you must convert it to 5V, I did this via a breadboard powersupply) 
@@ -58,7 +58,7 @@ Displays a typewriter-style boot-up sequence and scrolls nerdy/sentimental messa
 
 ---
 
-## 💻 Code
+## Code
 All logic lives in `GradCap.ino`  
 - Boot-up sequence in `setup()`  
 - Scrolling message loop in `loop()`  
@@ -66,12 +66,12 @@ All logic lives in `GradCap.ino`
 
 ---
 
-## 🎥 Demo Video
+## Demo Video
 LinkedIn Link to video coming soon :D
 
 ---
 
-## 📦 Why I Made This
+## Why I Made This
 This was my way of saying goodbye to high school and welcoming the next chapter of my life as a computer engineer who is going to build a bunch of silly and goofy things :D
 
 ---
