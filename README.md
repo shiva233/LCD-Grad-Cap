@@ -72,6 +72,12 @@ All logic lives in `GradCap.ino`
 ## Demo Video
 LinkedIn Link to video coming soon :D
 
+
+
+https://github.com/user-attachments/assets/086d1045-7b06-4fa1-8e97-30b01c1466a7
+
+
+
 ---
 
 ## Why I Made This
