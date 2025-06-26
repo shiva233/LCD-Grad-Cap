@@ -2,7 +2,10 @@
 
 A silly hardware Grad Cap for my high school graduation!
 
-Displays a typewriter-style boot-up sequence and scrolls nerdy/sentimental messages on a 16x2 LCD using an Arduino Uno and a breadboard. Powered by a 9V battery and a breadboard power supply (that provides 5V). Built to celebrate the closure of finishing high school and my next chapter as a computer engineer :D.
+
+![Photo 2025-06-25, 3 38 16 PM](https://github.com/user-attachments/assets/d606d349-7ff1-4e50-9c4e-154facec567f)
+
+Displays a typewriter-style boot-up sequence and scrolls nerdy/sentimental messages on a 16x2 LCD using an Arduino Uno and a breadboard. Powered by a 9V battery and a breadboard power supply (which provides 5V). Built to celebrate the closure of finishing high school and my next chapter as a computer engineer :D.
 
 ---
 
