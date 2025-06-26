@@ -1,4 +1,4 @@
-# 🎓 GradCap v1.0 — Shiva’s LCD Graduation Cap
+# 🎓 GradCap — Shiva’s LCD Graduation Cap
 
 A silly hardware Grad Cap for my high school graduation!
 
