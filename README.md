@@ -62,7 +62,8 @@ Displays a typewriter-style boot-up sequence and scrolls nerdy/sentimental messa
 ---
 
 ## Code
-All logic lives in `GradCap.ino`  
+All logic lives in `GradCap.ino` 
+- an array of nerdy/sentimental messages
 - Boot-up sequence in `setup()`  
 - Scrolling message loop in `loop()`  
 - Bottom row displays emoticons
